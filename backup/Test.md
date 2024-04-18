@@ -1,1 +1,0 @@
-This is Antlers' Gmeek blog repository.
